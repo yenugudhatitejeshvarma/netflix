@@ -8,7 +8,8 @@ export const LockBody = createGlobalStyle`
 
 export const ReleaseBody = createGlobalStyle`
   body {
-    overflow: visible;
+    overflow: visible ;
+    overright: visible;
   }
 `;
 
